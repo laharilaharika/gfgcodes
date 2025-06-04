@@ -1,5 +1,4 @@
-/*The structure of the node of the queue is
-class QueueNode
+/*class QueueNode
 {
     int data;
     QueueNode next;
